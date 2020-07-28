@@ -1,6 +1,6 @@
 ---
 ID: 100
-post_title: '[fed_dashboard]'
+post_title: Dashboard
 author: Tega Tega
 post_excerpt: ""
 layout: page
