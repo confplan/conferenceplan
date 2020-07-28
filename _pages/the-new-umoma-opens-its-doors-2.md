@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: page
 permalink: >
-  http://3.250.1.61/the-new-umoma-opens-its-doors-2/
+  http://confoav.dbsprojects.ie/the-new-umoma-opens-its-doors-2/
 published: true
 post_date: 2020-07-23 14:12:07
 ---

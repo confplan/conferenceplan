@@ -4,7 +4,7 @@ post_title: SIGN UP
 author: user
 post_excerpt: ""
 layout: page
-permalink: http://3.250.1.61/sign-up/
+permalink: http://confoav.dbsprojects.ie/sign-up/
 published: true
 post_date: 2020-07-27 14:28:37
 ---

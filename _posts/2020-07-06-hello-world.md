@@ -5,7 +5,7 @@ author: user
 post_excerpt: ""
 layout: post
 permalink: >
-  http://3.250.1.61/2020/07/06/hello-world/
+  http://confoav.dbsprojects.ie/2020/07/06/hello-world/
 published: true
 post_date: 2020-07-06 20:59:25
 ---
