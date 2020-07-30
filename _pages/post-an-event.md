@@ -9,11 +9,11 @@ published: true
 post_date: 2020-07-23 14:13:26
 ---
 <!-- wp:paragraph -->
-<p><strong>[pms-restrict subscription_plans="1,2"]</strong></p>
+<p></p>
 <!-- /wp:paragraph -->
 
-<p>[submit_event_form]</p>
+<p><strong data-rich-text-format-boundary="true">[pms-restrict subscription_plans="1,2"]</strong>[submit_event_form] <strong data-rich-text-format-boundary="true">[pms-restrict]</strong></p>
 
 <!-- wp:paragraph -->
-<p><strong>[pms-restrict ]</strong></p>
+<p></p>
 <!-- /wp:paragraph -->
