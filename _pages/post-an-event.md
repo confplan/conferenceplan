@@ -12,7 +12,7 @@ post_date: 2020-07-23 14:13:26
 <p></p>
 <!-- /wp:paragraph -->
 
-<p><strong class="nowrap">[pms-restrict subscription_plans="9,10"]</strong><span> </span>[submit_event_form]<strong class="nowrap">[/pms-restrict]</strong></p>
+<p><strong class="nowrap">[pms-restrict subscription_plans="183,171"]</strong><span> </span>[submit_event_form]<strong class="nowrap">[/pms-restrict]</strong></p>
 
 <!-- wp:paragraph -->
 <p></p>
