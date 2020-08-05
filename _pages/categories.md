@@ -1,12 +1,12 @@
 ---
-ID: 10
+ID: 152
 post_title: Categories
-author: wealthmiq
+author: Victor Isokpehi
 post_excerpt: ""
 layout: page
 permalink: >
-  http://51.132.134.235/wordpress/index.php/events/categories/
+  http://51.132.134.235/wordpress/index.php/events-2-2/categories/
 published: true
-post_date: 2020-08-05 03:20:44
+post_date: 2020-07-29 20:45:53
 ---
 CONTENTS
