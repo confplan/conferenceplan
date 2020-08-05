@@ -1,10 +1,11 @@
 ---
 ID: 244
 post_title: Buy Ticket
-author: Tega Tega
+author: wealthmiq
 post_excerpt: ""
 layout: page
-permalink: http://3.250.1.61/buy-ticket/
+permalink: >
+  http://51.132.134.235/wordpress/index.php/buy-ticket/
 published: true
 post_date: 2020-07-31 13:42:11
 ---
