@@ -1,11 +1,11 @@
 ---
-ID: 253
+ID: 258
 post_title: Payment Details
-author: Tega Tega
+author: wealthmiq
 post_excerpt: ""
 layout: page
 permalink: >
-  http://confoav.dbsprojects.ie/payment-details-2/
+  http://51.132.134.235/wordpress/index.php/payment-details-2/
 published: true
 post_date: 2020-08-01 21:49:16
 ---
