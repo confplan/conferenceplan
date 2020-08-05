@@ -1,19 +1,12 @@
 ---
-ID: 43
+ID: 7
 post_title: Events
-author: user
-post_excerpt: ""
+author: wealthmiq
+post_excerpt: CONTENTS
 layout: page
-permalink: http://3.250.1.61/events/
+permalink: >
+  http://51.132.134.235/wordpress/index.php/events/
 published: true
-post_date: 2020-07-23 14:13:26
+post_date: 2020-08-05 03:20:37
 ---
-<p>[events]</p>
-
-<!-- wp:tribe/tickets -->
-<div class="wp-block-tribe-tickets"></div>
-<!-- /wp:tribe/tickets -->
-
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+CONTENTS
