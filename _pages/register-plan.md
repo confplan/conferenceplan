@@ -1,10 +1,11 @@
 ---
 ID: 175
 post_title: Register Plan
-author: Tega Tega
+author: wealthmiq
 post_excerpt: ""
 layout: page
-permalink: http://3.250.1.61/register-plan/
+permalink: >
+  http://51.132.134.235/wordpress/index.php/register-plan/
 published: true
 post_date: 2020-07-30 09:22:55
 ---
@@ -15,7 +16,6 @@ post_date: 2020-07-30 09:22:55
 <!-- /wp:paragraph --></div>
 <!-- /wp:themeisle-blocks/advanced-column --></div></div>
 <!-- /wp:themeisle-blocks/advanced-columns -->
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
