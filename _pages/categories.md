@@ -1,11 +1,12 @@
 ---
-ID: 152
+ID: 10
 post_title: Categories
-author: Victor Isokpehi
+author: wealthmiq
 post_excerpt: ""
 layout: page
-permalink: http://3.250.1.61/events-2/categories/
+permalink: >
+  http://51.132.134.235/wordpress/index.php/events/categories/
 published: true
-post_date: 2020-07-29 20:45:53
+post_date: 2020-08-05 03:20:44
 ---
 CONTENTS
